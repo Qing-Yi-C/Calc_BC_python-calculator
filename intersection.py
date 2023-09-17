@@ -4,10 +4,13 @@ import time
 
 
 def f(x):
-  return ((cos(x**2, 12))**2+(e**(.5 * x))**2)**.5
+  return
+
+def g(x):
+  return
 
 def fgx(x):
-  return 2 - f(x)
+  return g(x) - f(x)
 
 def derivative(function, value):
   h = float((0.1)**12)
