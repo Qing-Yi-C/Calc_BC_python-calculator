@@ -1,5 +1,6 @@
 # Calc_BC_python-calculator
-### AP Calc BC Final Project: Calculus calculator coded in Python and used for final exam.
+### AP Calc BC Final Project: Calculus calculator coded in Python and used for final exam
+##### Code uploaded from replit (repl linked in description)  
 ### Includes:
 * cosine
 * sine
